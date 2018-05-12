@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: Tales told by the old Georgian slave, featuring Brer B'ar, Brer Fox,
   Brer Rabbit, and their animal friends.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24430#Nights-With-Uncle-Remus
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-01-26'
 gutenberg_type: Text
